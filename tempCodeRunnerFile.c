@@ -1,1 +1,0 @@
-    free(tareas_solicitadas);
